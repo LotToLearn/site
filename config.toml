@@ -1,4 +1,4 @@
-baseurl = "http://noahhorner.com"
+baseurl = "https://noahhorner.com"
 title = "Noah's Site"
 author = "Noah Horner"
 canonifyurls = true
