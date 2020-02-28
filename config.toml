@@ -1,0 +1,11 @@
+baseurl = "http://noahhorner.com"
+title = "Noah's Site"
+author = "Noah Horner"
+canonifyurls = true
+paginate = 3
+theme = "aether"
+
+[params]
+brand = "Noah"
+description = "Noah's repo"
+bgimg = "img/ignasi_pattern_s.png"
